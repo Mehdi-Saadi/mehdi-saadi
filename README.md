@@ -1,4 +1,4 @@
-### <div align="center">I'm Mehdi, a full-stack developer 👨‍💻</div>
+### <div align="center">I'm Mehdi, a web developer 👨‍💻</div>
 
 🔭 I’m currently working on Todoist project
 <br>
