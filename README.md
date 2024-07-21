@@ -20,7 +20,7 @@
         "devops": ["Git", "GitHub"]
     },
     "os": "Ubuntu",
-    "social_links": {
+    "social_addresses": {
         "email": "mehdi.0.saadi@gmail.com",
         "github": "https://github.com/Mehdi-Saadi",
         "linkedin": "https://www.linkedin.com/in/mehdi-saadi-926a57235"
