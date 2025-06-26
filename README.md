@@ -1,30 +1,34 @@
 ```json
 {
-    "name": "Mehdi",
-    "love_to_talk_about": "Software Development",
-    "current_project": "Work & Team management system",
-    "technologies": {
-        "front_end": {
-            "languages": ["Typescript", "Javascript"],
-            "frameworks": ["Vue.js", "Tailwind CSS", "Alpine.js"],
-            "testing": ["Vitest"],
-            "other": ["HTML", "CSS", "Vite"]
-        },
-        "back_end": {
-            "languages": ["PHP"],
-            "frameworks": ["Laravel"],
-            "testing": ["Pest"]
-        },
-        "full_stack": ["Livewire", "Inertia.js"],
-        "databases": ["MySQL"],
-        "devops": ["Git", "GitHub"]
+  "name": "Mehdi",
+  "bio": "Full-stack developer passionate about clean code, great UI/UX, and building scalable web applications.",
+  "current_focus": "Building a diet & habit tracking application",
+  "technologies": {
+    "front_end": {
+      "languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
+      "frameworks": ["Vue.js", "Nuxt.js", "Quasar", "Tailwind CSS"],
+      "state_management": ["Pinia"],
+      "routing": ["Vue Router"],
+      "testing": ["Vitest"]
     },
-    "os": "Ubuntu",
-    "social_addresses": {
-        "email": "mehdi.0.saadi@gmail.com",
-        "github": "https://github.com/Mehdi-Saadi",
-        "linkedin": "https://www.linkedin.com/in/mehdi-saadi-926a57235"
+    "back_end": {
+      "languages": ["PHP"],
+      "frameworks": ["Laravel", "Livewire"],
+      "testing": ["Pest"]
     },
-    "hobbies": ["Watching movies", "Playing video games", "Hiking"]
+    "full_stack": {
+      "tools": ["Inertia.js"]
+    },
+    "native_apps": ["Tauri"],
+    "databases": ["MySQL"],
+    "devops": ["Git", "GitHub"],
+    "os": ["Ubuntu"]
+  },
+  "social": {
+    "email": "mehdi.0.saadi@gmail.com",
+    "github": "https://github.com/Mehdi-Saadi",
+    "linkedin": "https://www.linkedin.com/in/mehdi-saadi-926a57235"
+  },
+  "interests": ["Software development", "Watching movies", "Playing video games", "Hiking"]
 }
 ```
