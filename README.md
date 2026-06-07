@@ -1,19 +1,19 @@
 ```json
 {
   "name": "Mehdi",
-  "bio": "Full-stack developer passionate about clean code, great UI/UX, and building scalable web applications.",
+  "bio": "Full-stack developer passionate about clean code, great UI/UX, and building scalable applications.",
   "current_focus": "Building a diet & habit tracking application",
   "technologies": {
     "front_end": {
-      "languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
+      "languages": ["TypeScript/JavaScript", "HTML", "CSS"],
       "frameworks": ["Vue.js", "Nuxt.js", "Quasar", "Tailwind CSS"],
       "state_management": ["Pinia"],
       "routing": ["Vue Router"],
       "testing": ["Vitest"]
     },
     "back_end": {
-      "languages": ["PHP"],
-      "frameworks": ["Laravel", "Livewire"],
+      "languages": ["TypeScript/JavaScript", "PHP"],
+      "frameworks": ["grammY", "Laravel", "Livewire"],
       "testing": ["Pest"]
     },
     "full_stack": {
