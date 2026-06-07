@@ -22,7 +22,7 @@
     "native_apps": ["Tauri"],
     "databases": ["MySQL"],
     "devops": ["Git", "GitHub"],
-    "os": ["Ubuntu"]
+    "os": ["Ubuntu", "Win11"]
   },
   "social": {
     "email": "mehdi.0.saadi@gmail.com",
